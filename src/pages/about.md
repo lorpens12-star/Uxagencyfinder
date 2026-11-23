@@ -1,13 +1,13 @@
 ---
 layout: ../layouts/ProseLayout.astro
 eyebrow: About us
-title: About UX Agency Finder
+title: About UX Agency Finders
 description: We help product teams find UX design agencies with real, proven experience in their industry.
 ---
 
 Choosing a UX agency is a big decision, and most directories don't make it easier. They sort by service, location or review volume, so a fintech team and a healthcare team end up looking at the same generic list.
 
-**UX Agency Finder starts with your market.** Whether you're building a telemedicine product, a payments platform, a fleet-management tool, a property marketplace, a learning app, a robot interface or an AI product, we show which agencies have done named work in that space and what they actually delivered.
+**UX Agency Finders starts with your market.** Whether you're building a telemedicine product, a payments platform, a fleet-management tool, a property marketplace, a learning app, a robot interface or an AI product, we show which agencies have done named work in that space and what they actually delivered.
 
 ## What we do
 

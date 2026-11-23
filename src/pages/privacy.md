@@ -2,12 +2,12 @@
 layout: ../layouts/ProseLayout.astro
 eyebrow: Legal
 title: Privacy policy
-description: How UX Agency Finder handles your information. In short, we collect very little.
+description: How UX Agency Finders handles your information. In short, we collect very little.
 ---
 
 *Last updated: November 2026*
 
-This privacy policy explains what information UX Agency Finder ("we", "us") collects when you use uxagencyfinder.com, and how we use it.
+This privacy policy explains what information UX Agency Finders ("we", "us") collects when you use uxagencyfinders.com, and how we use it.
 
 ## Information we collect
 
@@ -40,7 +40,7 @@ We keep emails only as long as we need them to respond and to keep a reasonable 
 
 ## Your rights
 
-Depending on where you live, you may have the right to access, correct or delete the personal information we hold about you, or to object to how we use it. To make a request, email us at [hello@uxagencyfinder.com](mailto:hello@uxagencyfinder.com).
+Depending on where you live, you may have the right to access, correct or delete the personal information we hold about you, or to object to how we use it. To make a request, email us at [hello@uxagencyfinders.com](mailto:hello@uxagencyfinders.com).
 
 ## Children
 
@@ -52,4 +52,4 @@ We may update this policy from time to time. The latest version will always be o
 
 ## Contact
 
-Questions about privacy? Email [hello@uxagencyfinder.com](mailto:hello@uxagencyfinder.com).
+Questions about privacy? Email [hello@uxagencyfinders.com](mailto:hello@uxagencyfinders.com).

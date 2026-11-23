@@ -1,6 +1,6 @@
-# UX Agency Finder
+# UX Agency Finders
 
-**Live:** https://uxagencyfinder.vercel.app (production domain: uxagencyfinder.com)
+**Live:** https://uxagencyfinder.vercel.app (production domain: uxagencyfinders.com)
 
 A curated, frontend-only website listing the best UX design agencies by industry: Healthcare, Fintech, Ecommerce, Logistics, Real Estate, Education, Robotics, and AI & ML. It covers 21 agencies across 52 editorial placements, and every placement is backed by a named project and a cited source.
 
@@ -63,6 +63,6 @@ The site is deployed on Vercel from this repository. Any static host works:
 
 ## Launch checklist
 
-- Connect `uxagencyfinder.com` to the hosting project.
-- Submit `https://uxagencyfinder.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
+- Connect `uxagencyfinders.com` to the hosting project.
+- Submit `https://uxagencyfinders.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
 - Mark reviewed records as `published`, then set `showDrafts: false` in `site.json`.

@@ -7,7 +7,7 @@ description: How we keep our lists independent and useful, and how we handle spo
 
 ## Editorial independence
 
-Every list on UX Agency Finder is an editorial selection. Positions reflect how relevant and well-documented each agency's work is for that industry. They aren't ratings, review scores or paid placements. Read more in [How we select](/methodology/).
+Every list on UX Agency Finders is an editorial selection. Positions reflect how relevant and well-documented each agency's work is for that industry. They aren't ratings, review scores or paid placements. Read more in [How we select](/methodology/).
 
 ## No pay-to-rank
 

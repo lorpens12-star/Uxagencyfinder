@@ -27,7 +27,7 @@ h1 { margin-top: 70px; font-size: 74px; line-height: 1.04; font-weight: 800; let
 .chip { font-size: 22px; font-weight: 500; padding: 10px 20px; border-radius: 999px; background: #fff; border: 1px solid #e5e8ef; color: #334155; }
 .stat { position: absolute; right: 80px; top: 72px; font-size: 22px; color: #586477; font-weight: 500; }
 </style></head><body><div class="grid"></div><div class="wrap">
-<div class="brand">${mark}<span>UX Agency <b>Finder</b></span></div>
+<div class="brand">${mark}<span>UX Agency <b>Finders</b></span></div>
 <div class="stat">${industries.length} industries · ${agencies.length} agencies · ${placements} placements</div>
 <h1>Find the best UX agencies <span class="g">for your industry</span></h1>
 <div class="chips">${industries.map((i) => `<span class="chip">${i.name}</span>`).join('')}</div>

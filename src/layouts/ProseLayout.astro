@@ -32,7 +32,7 @@ const otherGuides = guides.filter((g) => `/guides/${g.slug}/` !== path);
   <header class="page-hero">
     <div class="container">
       <Breadcrumbs items={crumbs} />
-      <p class="eyebrow">{isGuide ? 'Hiring guide' : frontmatter.eyebrow ?? 'UX Agency Finder'}</p>
+      <p class="eyebrow">{isGuide ? 'Hiring guide' : frontmatter.eyebrow ?? 'UX Agency Finders'}</p>
       <h1>{frontmatter.title}</h1>
       {frontmatter.description && <p class="lead">{frontmatter.description}</p>}
       {isGuide && <AuthorReviewLine />}

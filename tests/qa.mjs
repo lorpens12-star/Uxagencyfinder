@@ -195,7 +195,7 @@ await p.route('mailto:*', (r) => r.abort());
 await p.click('button[type=submit]');
 await p.waitForTimeout(300);
 check('Contact: status message shown', ((await p.textContent('#compose-status')) ?? '').length > 10);
-check('Contact: mailto links present', (await p.locator('a[href^="mailto:hello@uxagencyfinder.com"]').count()) >= 4);
+check('Contact: mailto links present', (await p.locator('a[href^="mailto:hello@uxagencyfinders.com"]').count()) >= 4);
 
 // 404
 const r404 = await p.goto(BASE + '/does-not-exist/');

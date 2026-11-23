@@ -1,4 +1,4 @@
-# CLAUDE.md: rules for editing the UX Agency Finder website
+# CLAUDE.md: rules for editing the UX Agency Finders website
 
 This is a **frontend-only static website** (Astro + TypeScript). There's **no backend, database, CMS or server API**. All content lives in files in this repo. To change the site, edit the files, validate, build and redeploy.
 
@@ -18,7 +18,7 @@ This is a **frontend-only static website** (Astro + TypeScript). There's **no ba
 Pages are generated from the data automatically: the 8 industry pages, 21 agency profiles, directory, homepage previews, `/sitemap.xml`, `/robots.txt`, `/llms.txt` (also served as `/llm.txt`), `/llms-full.txt` and the JSON-LD. **Never hand-edit `dist/`.**
 
 ## SEO and writing rules
-- The site is indexable (`site.json -> noindex: false`). The sitemap uses absolute `https://uxagencyfinder.com` URLs (from `site.json -> siteUrl`), and every public route is listed in `src/lib/routes.ts`. **When you add a new page, add it to `routes.ts` too.**
+- The site is indexable (`site.json -> noindex: false`). The sitemap uses absolute `https://uxagencyfinders.com` URLs (from `site.json -> siteUrl`), and every public route is listed in `src/lib/routes.ts`. **When you add a new page, add it to `routes.ts` too.**
 - Titles must be 20-65 characters and meta descriptions 70-160 characters, and each must be unique.
 - **Never use em dashes or en dashes anywhere** (in content, data or docs). Use a comma, colon, period or plain hyphen instead.
 - After changing content, run `npm run build && npm run test:seo`.

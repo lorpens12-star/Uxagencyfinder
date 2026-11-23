@@ -1,11 +1,11 @@
 {
-  "name": "UX Agency Finder",
-  "domain": "uxagencyfinder.com",
-  "siteUrl": "https://uxagencyfinder.com",
+  "name": "UX Agency Finders",
+  "domain": "uxagencyfinders.com",
+  "siteUrl": "https://uxagencyfinders.com",
   "tagline": "Find the best UX design agencies for your industry.",
-  "contactEmail": "hello@uxagencyfinder.com",
+  "contactEmail": "hello@uxagencyfinders.com",
   "publisher": {
-    "name": "UX Agency Finder",
+    "name": "UX Agency Finders",
     "description": "A curated guide to the best UX design agencies, organised by industry and technology market."
   },
   "editor": null,

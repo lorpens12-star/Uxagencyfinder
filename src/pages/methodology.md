@@ -7,7 +7,7 @@ description: Our inclusion rules, how each industry's order is set, where our ev
 
 ## Our approach
 
-UX Agency Finder is an editorial guide, not a review platform or a paid directory. We organise agencies by the markets they've actually worked in, because the best partner for a payments app is rarely the best partner for a hospital system.
+UX Agency Finders is an editorial guide, not a review platform or a paid directory. We organise agencies by the markets they've actually worked in, because the best partner for a payments app is rarely the best partner for a hospital system.
 
 ## The eight industries
 

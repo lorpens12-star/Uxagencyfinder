@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "UX Agency Finder - static, frontend-only test website (no backend).",
+  "description": "UX Agency Finders - static, frontend-only test website (no backend).",
   "scripts": {
     "dev": "astro dev",
     "validate": "node scripts/validate-data.mjs",

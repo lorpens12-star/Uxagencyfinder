@@ -2,16 +2,16 @@
 layout: ../layouts/ProseLayout.astro
 eyebrow: Legal
 title: Terms of use
-description: The terms that apply when you use the UX Agency Finder website, its agency lists, hiring guides and worksheets.
+description: The terms that apply when you use the UX Agency Finders website, its agency lists, hiring guides and worksheets.
 ---
 
 *Last updated: November 2026*
 
-By using uxagencyfinder.com (the "site") you agree to these terms. If you don't agree, please don't use the site.
+By using uxagencyfinders.com (the "site") you agree to these terms. If you don't agree, please don't use the site.
 
 ## 1. About the site
 
-UX Agency Finder publishes editorial information about UX design agencies, organised by industry, along with free hiring guides and worksheets.
+UX Agency Finders publishes editorial information about UX design agencies, organised by industry, along with free hiring guides and worksheets.
 
 ## 2. Information only
 
@@ -39,7 +39,7 @@ The site links to websites we don't control. We aren't responsible for their con
 
 ## 8. Intellectual property
 
-The site's design, text and original content belong to UX Agency Finder. Agency names, logos and trademarks belong to their respective owners.
+The site's design, text and original content belong to UX Agency Finders. Agency names, logos and trademarks belong to their respective owners.
 
 ## 9. Disclaimer and limitation of liability
 
@@ -51,4 +51,4 @@ We may update these terms from time to time. Continuing to use the site after ch
 
 ## 11. Contact
 
-Questions about these terms? Email [hello@uxagencyfinder.com](mailto:hello@uxagencyfinder.com).
+Questions about these terms? Email [hello@uxagencyfinders.com](mailto:hello@uxagencyfinders.com).
